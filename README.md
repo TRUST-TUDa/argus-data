@@ -8,9 +8,9 @@ The corresponding paper was published as Rieger, Chilese, Mohamed, Miettinen, Fe
 @inproceedings{rieger2023argus,
   title={{ARGUS: Context-Based Detection of Stealthy IoT Infiltration Attacks}},
   author={Rieger, Phillip and Chilese, Marco and Mohamed, Reham and Miettinen, Markus and Fereidooni, Hossein and Sadeghi, Ahmad-Reza},
-  booktitle={32st USENIX Security Symposium (USENIX Security 23)},
+  booktitle={32nd USENIX Security Symposium (USENIX Security 23)},
   year={2023},
-  organization={IEEE}
+  publisher = {USENIX Association}
 }
 ```
 
